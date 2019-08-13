@@ -1,0 +1,11 @@
+{
+  "name": "heroku-express",
+  "description": "",
+  "version": "",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "3.x",
+  }
+}
